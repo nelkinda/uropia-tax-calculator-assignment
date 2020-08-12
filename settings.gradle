@@ -1,0 +1,3 @@
+rootProject.name = 'com.nelkinda.training.uropia'
+
+include 'app-template'
