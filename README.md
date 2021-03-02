@@ -72,8 +72,8 @@ Sales Tax 50%:     1.65
 
 ## Expected Outcome
 * The above examples (specifications) should be converted into executable tests using Cucumber and Gherkin.
-* The solution follows 4 Rules of Simple Design
-* The solution is TDDd, and should have good test coverage. The template already contains Jacoco which can be used to check the code coverage.
+* The solution follows 4 Rules of Simple Design.
+* Use Test Driven Development. The solution should have good test coverage. The template already contains Jacoco which can be used to check the code coverage.
 * Static code analysis tools are enabled by default to ensure good code quality.
 * Makefile is provided as a wrapper for Gradle with all essential commands to build, test and run the code. Feel free to modify it as per your requirement.
 
